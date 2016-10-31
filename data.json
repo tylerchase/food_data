@@ -13,8 +13,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["clams"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree", "containsShellfish"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesEgg", "paleo", "glutenFree", "containsShellfish"]
         },
         {
           "name": "Oysters on the half shell",
@@ -29,8 +29,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["oysters"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree", "containsShellfish"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesEgg", "paleo", "glutenFree", "containsShellfish"]
         },
         {
           "name": "rotisserie chicken",
@@ -45,8 +45,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["rotisserie chicken"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "paleo", "glutenFree"]
         },
         {
           "name": "chicken with cilantro",
@@ -61,8 +61,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["chicken"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "paleo", "glutenFree"]
         },
         {
           "name": "steak",
@@ -77,8 +77,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["steak"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "paleo", "glutenFree"]
         },
         {
           "name": "beef tenderloin",
@@ -93,8 +93,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["beef", "tenderloin"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "paleo", "glutenFree"]
         },
         {
           "name": "sirloin steak",
@@ -109,8 +109,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["beef", "sirloin"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "paleo", "glutenFree"]
         },
         {
           "name": "bbq platter",
@@ -125,8 +125,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["beef", "pork", "french fries"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "paleo", "glutenFree"]
         },
         {
           "name": "lobster",
@@ -141,8 +141,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["lobster"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree","containsShellfish"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesEgg", "paleo", "glutenFree", "containsShellfish"]
         },
         {
           "name": "crab",
@@ -157,8 +157,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["crab"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree", "containsShellfish"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesEgg", "paleo", "glutenFree", "containsShellfish"]
         },
         {
           "name": "salmon",
@@ -173,8 +173,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["salmon", "seafood"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "paleo", "glutenFree"]
         },
         {
           "name": "pancakes",
@@ -189,8 +189,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["pancakes"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "containsDairy", "containsEgg"]
         },
         {
           "name": "waffles",
@@ -205,8 +205,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["waffles"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["containsDairy","containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "containsDairy","containsEgg"]
         },
         {
           "name": "cinnamon rolls",
@@ -221,8 +221,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["cinnamon rolls"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "containsDairy", "containsEgg"]
         },
         {
           "name": "eggs",
@@ -237,8 +237,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["eggs"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "paleo", "glutenFree", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "vegetarian", "paleo", "glutenFree", "containsEgg"]
         },
         {
           "name": "Donuts",
@@ -253,8 +253,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["donuts"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "vegetarian", "containsDairy", "containsEgg"]
         },
         {
           "name": "bagels and lox",
@@ -269,8 +269,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["bagels", "loxs"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["containsDairy"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "excludesEgg", "containsDairy"]
         },
         {
           "name": "bagels",
@@ -285,8 +285,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["bagels"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian"]
         },
         {
           "name": "oatmeal",
@@ -301,8 +301,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["oatmeal"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "glutenFree"]
         },
         {
           "name": "english breakfast",
@@ -317,8 +317,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["eggs", "sausage"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":[ "paleo", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "paleo", "containsEgg"]
         },
         {
           "name": "poached egggs with avocado on toast",
@@ -333,8 +333,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["eggs", "bacon", "avocado"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "paleo", "containsEgg"]
         },
         {
           "name": "cereal",
@@ -349,8 +349,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["cereal", "milk"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "glutenFree"]
         },
         {
           "name": "Cookies",
@@ -365,8 +365,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["cookies"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "vegetarian", "containsDairy", "containsEgg"]
         },
         {
           "name": "ice cream",
@@ -381,8 +381,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["ice cream"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "glutenFree", "containsDairy"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "excludesEgg", "vegetarian", "glutenFree", "containsDairy"]
         },
         {
           "name": "blueberry and blackberry pie",
@@ -397,8 +397,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["blueberry", "blackberry", "pie"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian","containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "vegetarian","containsDairy", "containsEgg"]
         },
         {
           "name": "macarons",
@@ -413,8 +413,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["desert", "macarons"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "glutenFree", "containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "vegetarian", "glutenFree", "containsDairy", "containsEgg"]
         },
         {
           "name": "brownie",
@@ -429,8 +429,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["desert", "brownie"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "containsDairy", "containsNuts", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesShellfish", "vegetarian", "containsDairy", "containsNuts", "containsEgg"]
         },
         {
           "name": "creme brulee",
@@ -445,8 +445,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["dessert", "creme brulee"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "vegetarian", "containsDairy", "containsEgg"]
         },
         {
           "name": "bacon cheeseburger",
@@ -461,8 +461,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["cheeseburger","bacon"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "containsDairy", "containsEgg"]
         },
         {
           "name": "sandwich",
@@ -477,8 +477,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["sandwich","bacon"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["containsDairy","containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "containsDairy","containsEgg"]
         },
         {
           "name": "panini",
@@ -493,8 +493,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["panini"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "containsDairy", "containsEgg"]
         },
         {
           "name": "cupcakes",
@@ -509,8 +509,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["cupcakes"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "vegetarian", "containsDairy", "containsEgg"]
         },
         {
           "name": "cannoli donut",
@@ -525,8 +525,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["cannoli", "donut"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "vegetarian", "containsDairy", "containsEgg"]
         },
         {
           "name": "fried cheese balls",
@@ -541,8 +541,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["fried", "cheese"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":[ "vegetarian",  "containsDairy",  "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "vegetarian",  "containsDairy",  "containsEgg"]
         },
         {
           "name": "chocolate cake",
@@ -557,8 +557,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["chocolate cake"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "vegetarian", "containsDairy", "containsEgg"]
         },
         {
           "name": "pizza",
@@ -573,8 +573,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["pizza"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["containsDairy"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "excludesEgg", "containsDairy"]
         },
         {
           "name": "pesto pasta",
@@ -589,8 +589,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["pesto", "pasta", "vegan"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "containsDairy", "containsNuts", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesShellfish", "vegetarian", "containsDairy", "containsNuts", "containsEgg"]
         },
         {
           "name": "homemade pasta",
@@ -605,8 +605,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["pasta", "vegan"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "vegetarian", "containsDairy", "containsEgg"]
         },
         {
           "name": "pho",
@@ -621,8 +621,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["pho"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":[]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg"]
         },
         {
           "name": "sushi",
@@ -631,14 +631,14 @@ let foods = {
           "vegetarian": false,
           "paleo": false,
           "glutenFree": true,
-          "containsDairy": true,
+          "containsDairy": false,
           "containsNuts": false,
           "containsShellfish": false,
           "containsEgg": false,
           "searchFor": ["sushi"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["glutenFree", "containsDairy"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "glutenFree"]
         },
         {
           "name": "udon noodle soup",
@@ -653,8 +653,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["udon", "soup"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "vegetarian", "containsEgg"]
         },
         {
           "name": "korean bbq",
@@ -669,8 +669,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["bbq", "korean"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "paleo", "glutenFree"]
         },
         {
           "name": "korean hotpot",
@@ -685,8 +685,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["hotpot", "korean"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "glutenFree", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "paleo", "glutenFree", "containsEgg"]
         },
         {
           "name": "coffee",
@@ -701,8 +701,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["coffee"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "latte",
@@ -711,14 +711,14 @@ let foods = {
           "vegetarian": true,
           "paleo": false,
           "glutenFree": true,
-          "containsDairy": true,
+          "containsDairy": false,
           "containsNuts": false,
           "containsShellfish": false,
           "containsEgg": false,
           "searchFor": ["coffee"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "glutenFree", "containsDairy"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "glutenFree"]
         },
         {
           "name": "brussel sprouts",
@@ -733,8 +733,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["brussel sprouts"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "meat nachos",
@@ -749,8 +749,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["nachos"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["glutenFree", "containsDairy"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "excludesEgg", "glutenFree", "containsDairy"]
         },
         {
           "name": "korean nachos",
@@ -765,8 +765,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["nachos"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["glutenFree", "containsDairy"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "excludesEgg", "glutenFree", "containsDairy"]
         },
         {
           "name": "cheese and crackers",
@@ -781,8 +781,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["cheese", "crackers"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian","containsDairy"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "excludesEgg", "vegetarian", "containsDairy"]
         },
         {
           "name": "quiche",
@@ -797,8 +797,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["eggs", "quiche"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "paleo", "glutenFree", "containsDairy", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "vegetarian", "paleo", "glutenFree", "containsDairy", "containsEgg"]
         },
         {
           "name": "french fries",
@@ -813,8 +813,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["french fries"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "glutenFree"]
         },
         {
           "name": "chicken wings",
@@ -829,8 +829,8 @@ let foods = {
           "containsEgg": true,
           "searchFor": ["fried","chicken"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["paleo", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish","paleo", "containsEgg"]
         },
         {
           "name": "paella",
@@ -845,8 +845,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["shrimp","rice", "sausage"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree", "containsDairy", "containsNuts", "containsShellfish", "containsEgg"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree", "containsDairy", "containsShellfish"]
         },
         {
           "name": "tomato soup",
@@ -861,8 +861,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["tomato soup"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "salad",
@@ -877,8 +877,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["salad", "greens"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "vegan tacos",
@@ -893,8 +893,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["salad", "greens"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "vegan pizza",
@@ -909,8 +909,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["pizza", "vegan"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo"]
         },
         {
           "name": "vegan mac & cheese",
@@ -925,8 +925,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["mac and cheese", "vegan"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian"]
         },
         {
           "name": "beet wellington",
@@ -941,8 +941,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["mac and cheese", "vegan"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian"]
         },
         {
           "name": "vegan biscuits and gravy",
@@ -957,8 +957,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["biscuits and gravy", "vegan"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian"]
         },
         {
           "name": "vegan chicken and waffles",
@@ -973,8 +973,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["chicken and waffles", "vegan"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian"]
         },
         {
           "name": "black bean burger",
@@ -989,8 +989,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["black bean burger", "vegan"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian"]
         },
         {
           "name": "vegan sushi",
@@ -1005,8 +1005,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["sushi", "vegan"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "glutenFree"]
         },
         {
           "name": "portobello",
@@ -1021,8 +1021,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["mushroom", "vegan"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo"]
         },
         {
           "name": "french onion soup",
@@ -1037,8 +1037,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["onion", "soup"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegetarian", "containsDairy"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesNuts", "excludesShellfish", "excludesEgg", "vegetarian", "containsDairy"]
         },
         {
           "name": "bloody mary",
@@ -1053,8 +1053,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["vodka", "bloody mary"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "Coconut Drink",
@@ -1069,8 +1069,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["cocunut drink"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "wine",
@@ -1085,8 +1085,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["wine", "alcohol"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "champagne",
@@ -1101,8 +1101,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["champagne", "alcohol"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "beer",
@@ -1117,8 +1117,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["wine", "alcohol"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian"]
         },
         {
           "name": "martini",
@@ -1133,8 +1133,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["martini", "alcohol"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "mojito",
@@ -1149,8 +1149,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["mojito", "alcohol"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "whiskey",
@@ -1165,8 +1165,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["whiskey", "alcohol"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "iced tea",
@@ -1181,8 +1181,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["iced tea"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "iced coffee",
@@ -1191,14 +1191,14 @@ let foods = {
           "vegetarian": true,
           "paleo": true,
           "glutenFree": true,
-          "containsDairy": true,
+          "containsDairy": false,
           "containsNuts": false,
           "containsShellfish": false,
           "containsEgg": false,
           "searchFor": ["iced coffee"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree", "containsDairy"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "espresso",
@@ -1213,8 +1213,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["coffee"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
         {
           "name": "smoothie",
@@ -1229,8 +1229,8 @@ let foods = {
           "containsEgg": false,
           "searchFor": ["smoothie"],
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"], 
-          "tags":["vegan", "vegetarian", "paleo", "glutenFree"]
+          "restaurants": ["Mcdonalds", "Watercourse", "Starbucks", "Papa Johns", "City O City"],
+          "tags":["excludesDairy", "excludesNuts", "excludesShellfish", "excludesEgg", "vegan", "vegetarian", "paleo", "glutenFree"]
         },
       ]
 }
